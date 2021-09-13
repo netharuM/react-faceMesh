@@ -24,6 +24,18 @@
   color: white;
 }
 
+.webcam {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 9;
+  width: 640;
+  height: 480;
+}
+
 .App-link {
   color: #61dafb;
 }
